@@ -6,6 +6,7 @@
 -->
 
 # ARCHIVED
+This is a Mirror for git cloning etc.
 
 null-ls is now archived and will no longer receive updates. Please see
 [this issue](https://github.com/jose-elias-alvarez/null-ls.nvim/issues/1621) for
